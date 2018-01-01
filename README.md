@@ -5,3 +5,6 @@
 * [Совершенный код](http://www.ozon.ru/context/detail/id/138437220/?partner=rastavelli)
 * [Чистый код](http://www.ozon.ru/context/detail/id/142429922/?partner=rastavelli)
 * [Принципы, паттерны и методики гибкой разработки на языке C#](http://www.ozon.ru/context/detail/id/141734494/?partner=rastavelli)
+
+## Git
+* [git-flow](https://github.com/nvie/gitflow) - Набор скриптов к Git, реализующий модель gitflow на ментальном уровне.
