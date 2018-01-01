@@ -6,6 +6,8 @@
 * [Чистый код](http://www.ozon.ru/context/detail/id/142429922/?partner=rastavelli)
 * [Принципы, паттерны и методики гибкой разработки на языке C#](http://www.ozon.ru/context/detail/id/141734494/?partner=rastavelli)
 * [Предметно-ориентированное проектирование (DDD)](http://www.ozon.ru/context/detail/id/30958003/?partner=rastavelli)
+* [Предметно-ориентированные языки программирования](http://www.ozon.ru/context/detail/id/6967089/?partner=rastavelli)
 
 ## Git
 * [git-flow](https://github.com/nvie/gitflow) - Набор скриптов к Git, реализующий модель gitflow на ментальном уровне.
+
